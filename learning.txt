@@ -1,0 +1,5 @@
+Q. Why do we need to learn about React Router?
+--> The thing is, any react application is nothing, but just a single page application. So, React actually never takes us to any other page. 
+   what it does instead is that, it removes some of the content of the current page, and, injects the content of the next page. 
+   Example:- Suppose, we're on the home page of the user on instagram. So, in the footer, we've the navigators, like, home page, reels, post, profile buttons. Now, if we go from home page to the profile page, we have to remove the home page content, and, inject the profile page content.
+             And, that's what React Router does. Also, the footer is constant there, as that not a part of the route.
