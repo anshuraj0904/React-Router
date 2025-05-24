@@ -1,0 +1,1 @@
+# A basic application using React Router, the actual usage of React, which is to create a single page application.
